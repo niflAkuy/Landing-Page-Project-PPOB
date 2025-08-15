@@ -324,7 +324,7 @@ a {
 }
 
 .cta-app-buttons img {
-    width: 200px; /* Ukuran badge */
+    width: 150px; /* Ukuran badge */
     transition: transform 0.3s ease;
 }
 
@@ -402,3 +402,4 @@ footer .social-icons a:hover {
         font-size: 2rem;
     }
 }
+
