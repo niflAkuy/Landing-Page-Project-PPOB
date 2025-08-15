@@ -163,15 +163,15 @@ a {
     margin-bottom: 30px;
 }
 
-/* .app-buttons img {
-    width: 200px;
+.app-buttons img {
+    width: 150px;
     margin-right: 15px;
     transition: transform 0.3s ease;
 }
 
 .app-buttons img:hover {
     transform: scale(1.05);
-} */
+}
 
 .hero-image {
     flex: 1;
@@ -402,4 +402,3 @@ footer .social-icons a:hover {
         font-size: 2rem;
     }
 }
-
